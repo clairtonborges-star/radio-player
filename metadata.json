@@ -1,0 +1,7 @@
+{
+  "name": "AI Radio Explorer",
+  "description": "A futuristic radio player that combines the global Radio Browser API with Gemini AI to help you discover music and stations from around the world based on your mood and preferences.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
